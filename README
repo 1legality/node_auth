@@ -1,0 +1,15 @@
+Not really anything but a node js / Express / typeORM app with authentification already settled.
+
+Most of the code comes from
+
+https://developer.okta.com/blog/2019/09/09/build-crud-app-node-mysql
+
+and
+
+https://medium.com/javascript-in-plain-english/creating-a-rest-api-with-jwt-authentication-and-role-based-authorization-using-typescript-fbfa3cab22a4
+
+Then I just added passport for Google and Facebook authentification.
+
+Might be a good foundation for future projects / hackaton.
+
+The mysql database needs Docker to run.
